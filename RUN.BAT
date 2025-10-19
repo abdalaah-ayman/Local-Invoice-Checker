@@ -1,3 +1,0 @@
-@echo off
-echo 🚀 فتح PowerShell و تشغيل البوت...
-start powershell -NoExit -ExecutionPolicy Bypass -Command "cd '%~dp0'; python main.py"
